@@ -32,8 +32,8 @@
 
 ### **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JakeTheDevv&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeTheDevv&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iRelapsedx&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iRelapsedx&theme=radical&hide_border=true" />
 </p>
 
 ---
