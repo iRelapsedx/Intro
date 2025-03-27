@@ -1,12 +1,12 @@
-<h1 align="center">👾 iRelapsedx 💜</h1>
+<h1 align="center">👾 iRelapsedx 👾</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=AC2AF5&center=true&vCenter=true&random=false&width=500&lines=Cyber+Enthusiast+%E2%9C%94%EF%B8%8F;Game+Dev+%E2%9C%94%EF%B8%8F;Hacker+Mindset+%E2%9C%94%EF%B8%8F;Tech+Explorer+%E2%9C%94%EF%B8%8F" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=AC2AF5&center=true&vCenter=true&random=false&width=500&lines=Cyber+Enthusiast+%E2%9C%94%EF%B8%8F;Game+Dev+%E2%9C%94%EF%B8%8F;Game+Modder+%E2%9C%94%EF%B8%8F;Techromancer+%E2%9C%94%EF%B8%8F" alt="Typing SVG">
 </p>
 
 ---
 
 ### **🛠️ About Me**
-> 💜 **Cyber Enthusiast | Game Dev | Ethical Hacker**  
+> 👾 **Cyber Enthusiast | Game Dev | Game Modder**  
 > 💀 Living in the shadows, coding in the dark...  
 > 💻 Reverse engineering, game modding, and tech exploration  
 
