@@ -41,7 +41,3 @@
 ### **🦾 Let’s Connect**
 💬 Always working in the background...  
 💻 Drop by the **stream** or **DM** me 👾  
-
----
-
-🚀 **"Code like a hacker, think like a dev, live like a legend."** 🕶️  
