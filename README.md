@@ -18,8 +18,10 @@
 ---
 
 ### **📺 Content & Streams**
-🎥 **YouTube & Twitch = iRelapsedx**  
-🔗 [YouTube](https://www.youtube.com/@iRelapsedx) | [Twitch](https://www.twitch.tv/iRelapsedx)
+🎥 **YouTube**  
+🔗 [YouTube](https://www.youtube.com/@iRelapsedx)
+🎥 **Twitch**
+🔗 [Twitch](https://www.twitch.tv/iRelapsedx)
 
 ---
 
