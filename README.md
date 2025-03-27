@@ -17,11 +17,17 @@
 
 ---
 
-### **📺 Content & Streams**
+### **📺 YouTube Content 📺**
 🎥 **YouTube**  
 🔗 [YouTube](https://www.youtube.com/@iRelapsedx)
+
+---
+
+### **📺 Twitch Content 📺**
 🎥 **Twitch**
 🔗 [Twitch](https://www.twitch.tv/iRelapsedx)
+
+---
 
 ---
 
