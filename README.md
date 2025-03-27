@@ -25,7 +25,7 @@
 
 ### **📺 Twitch Content 📺**
 🎥 **Twitch**  
-🔗 [YouTube](https://www.youtube.com/@iRelapsedx)
+🔗 [Twitch](https://www.twitch.tv/iRelapsedx)
 
 ---
 
